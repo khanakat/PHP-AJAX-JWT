@@ -1,0 +1,19 @@
+{
+    "name": "fernandocalmet/jwt-php-example",
+    "description": "Aplicación de ejemplo con Ajax, Json Web Token para PHP", 
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fernando Calmet",
+            "email": "fercalmet@gmail.com",
+            "homepage": "https://www.github.com/fernandocalmet"
+        }
+    ],
+    "require": {},
+    "config": {
+        "process-timeout" : 0
+    },
+    "scripts": {
+        "start": "php -S localhost:8081"
+    }
+}
