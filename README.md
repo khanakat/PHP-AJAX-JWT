@@ -10,4 +10,7 @@ Los datos para probar la validación del usuario son:
 - Password: 12345678
 
 ## Depedencies
-- Firebase PHP JWT
+- Firebase PHP JWT  
+
+## Demo
+![Demostracion GIF](docs/demo.gif)
